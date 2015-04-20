@@ -1,0 +1,3 @@
+# lab4
+0000000000400624 T _Z7averagePdRd
+0000000000400652 T _Z7averageif
